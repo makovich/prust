@@ -1,0 +1,9 @@
+[package]
+name = "prust"
+version = "0.1.0"
+authors = ["makovich <makovich@great.pm>"]
+
+[dependencies]
+rand = "0.3"
+num-traits = "0.1.40"
+ansi_term = "0.9"
